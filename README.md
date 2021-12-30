@@ -1,10 +1,6 @@
 # F1 Simulator
  自己用C#随手写的一个小游戏，纯娱乐。
 ## 界面
-#### 主界面：
-![image](https://github.com/Firemountaincold/F1-Simulator/blob/main/Image1.png)
-#### 数据中心：
-![image](https://github.com/Firemountaincold/F1-Simulator/blob/main/Image2.png)
 ## 更新日志
 #### 2021.6.18：
 ##### 0.1：
