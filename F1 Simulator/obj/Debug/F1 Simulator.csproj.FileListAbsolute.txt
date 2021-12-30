@@ -1,0 +1,12 @@
+C:\Users\llz\source\repos\F1 Simulator\F1 Simulator\bin\Debug\F1 Simulator.exe.config
+C:\Users\llz\source\repos\F1 Simulator\F1 Simulator\bin\Debug\F1 Simulator.exe
+C:\Users\llz\source\repos\F1 Simulator\F1 Simulator\bin\Debug\F1 Simulator.pdb
+C:\Users\llz\source\repos\F1 Simulator\F1 Simulator\obj\Debug\F1_Simulator.Properties.Resources.resources
+C:\Users\llz\source\repos\F1 Simulator\F1 Simulator\obj\Debug\F1 Simulator.csproj.GenerateResource.cache
+C:\Users\llz\source\repos\F1 Simulator\F1 Simulator\obj\Debug\F1 Simulator.csproj.CoreCompileInputs.cache
+C:\Users\llz\source\repos\F1 Simulator\F1 Simulator\obj\Debug\F1 Simulator.exe
+C:\Users\llz\source\repos\F1 Simulator\F1 Simulator\obj\Debug\F1 Simulator.pdb
+C:\Users\llz\source\repos\F1 Simulator\F1 Simulator\obj\Debug\F1_Simulator.SimuForm.resources
+C:\Users\llz\source\repos\F1 Simulator\F1 Simulator\obj\Debug\F1_Simulator.CareerSetting.resources
+C:\Users\llz\source\repos\F1 Simulator\F1 Simulator\obj\Debug\F1_Simulator.DataConsole.resources
+C:\Users\llz\source\repos\F1 Simulator\F1 Simulator\obj\Debug\F1 Simulator.csproj.AssemblyReference.cache
