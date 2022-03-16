@@ -1217,6 +1217,8 @@ namespace F1_Simulator
                 capset = cs.cap;
                 carset = cs.car;
                 transset = cs.trans;
+                carchange = cs.change;
+                carchangedelta = cs.changedelta;
                 savelog = cs.savelog;
             }
         }

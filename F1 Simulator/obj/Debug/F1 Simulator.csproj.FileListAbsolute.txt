@@ -10,3 +10,16 @@ C:\Users\llz\source\repos\F1 Simulator\F1 Simulator\obj\Debug\F1_Simulator.SimuF
 C:\Users\llz\source\repos\F1 Simulator\F1 Simulator\obj\Debug\F1_Simulator.CareerSetting.resources
 C:\Users\llz\source\repos\F1 Simulator\F1 Simulator\obj\Debug\F1_Simulator.DataConsole.resources
 C:\Users\llz\source\repos\F1 Simulator\F1 Simulator\obj\Debug\F1 Simulator.csproj.AssemblyReference.cache
+D:\GitHub\F1-Simulator\F1 Simulator\obj\Debug\F1 Simulator.csproj.AssemblyReference.cache
+D:\GitHub\F1-Simulator\F1 Simulator\obj\Debug\F1 Simulator.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\F1-Simulator\F1 Simulator\obj\Debug\F1_Simulator.CareerSetting.resources
+D:\GitHub\F1-Simulator\F1 Simulator\obj\Debug\F1_Simulator.DataConsole.resources
+D:\GitHub\F1-Simulator\F1 Simulator\obj\Debug\F1_Simulator.SimuForm.resources
+D:\GitHub\F1-Simulator\F1 Simulator\obj\Debug\F1_Simulator.Properties.Resources.resources
+D:\GitHub\F1-Simulator\F1 Simulator\obj\Debug\F1 Simulator.csproj.GenerateResource.cache
+D:\GitHub\F1-Simulator\F1 Simulator\obj\Debug\F1 Simulator.csproj.CoreCompileInputs.cache
+D:\GitHub\F1-Simulator\F1 Simulator\obj\Debug\F1 Simulator.exe
+D:\GitHub\F1-Simulator\F1 Simulator\obj\Debug\F1 Simulator.pdb
+D:\GitHub\F1-Simulator\F1 Simulator\bin\Debug\F1 Simulator.exe.config
+D:\GitHub\F1-Simulator\F1 Simulator\bin\Debug\F1 Simulator.exe
+D:\GitHub\F1-Simulator\F1 Simulator\bin\Debug\F1 Simulator.pdb
